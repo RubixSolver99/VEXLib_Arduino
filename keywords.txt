@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For VEXLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+VexBumpSwitch		KEYWORD1
+VexEncoder		KEYWORD1
+VexFlashlight		KEYWORD1
+VexLED			KEYWORD1
+VexLightSensor		KEYWORD1
+VexLimitSwitch		KEYWORD1
+VexLineTrakcer		KEYWORD1
+VexMotor		KEYWORD1
+VexPotentiometer	KEYWORD1
+VexServo		KEYWORD1
+VexUltrasonic		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getPos			KEYWORD2
+off			KEYWORD2
+on			KEYWORD2
+reset			KEYWORD2
+getDistance		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
